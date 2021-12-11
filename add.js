@@ -14,8 +14,4 @@ function div(a, b) {
     return a/b;
 }
 
-function pow(a, b) {
-    return a^b;
-}
-
-module.exports = {add, sub, mul, div, pow};
+module.exports = {add, sub, mul, div};
