@@ -18,4 +18,8 @@ function pow(a, b) {
   return a ^ b;
 }
 
+function and(a, b) {
+  return a & b;
+}
+
 module.exports = { add, sub, mul, div };
